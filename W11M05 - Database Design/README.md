@@ -1,5 +1,5 @@
 # M05 W11 | Database Design
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-December-11-2023/tree/main/W11M05%20-%20Database%20Design) | [Vimeo Video Recording](https://vimeo.com/920610561/2b0c5a9c61?share=copy)
 
 ## Topics to cover
 
