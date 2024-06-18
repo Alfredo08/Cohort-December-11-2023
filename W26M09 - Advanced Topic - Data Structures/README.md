@@ -1,5 +1,5 @@
 # M09 W26 | Advanced Topic - Data Structures
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-December-11-2023/tree/main/W26M09%20-%20Advanced%20Topic%20-%20Data%20Structures) | [Vimeo Video Recording]()
 
 ## Topics to cover 
 
